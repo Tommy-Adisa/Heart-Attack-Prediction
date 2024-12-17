@@ -1,0 +1,4 @@
+The objective of this project work is to collect data and carry out experimental work to investigate bias. The area of experimental work is in the healthcare sector. The focus is to predict heart attack in patients to prevent it and to investigate bias and use the fairness criteria that best address this issue.
+In the data collection, one protected character is taken into consideration which is the sex (gender) which will be used to split the data into groups at the evaluation stage.
+In this work, a marching learning model is used, and, in this process, the model will be worked on every step required from data cleaning, data visualisation, data optimization and so on. Finally, the data will be split into two groups to investigate bias in gender. 
+In conclusion of the whole model, we see the results when it comes to equal accuracy, demographic parity, and equal opportunity and we will justify if the result was fair or biased.
